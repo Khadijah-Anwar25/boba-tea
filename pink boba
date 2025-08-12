@@ -1,0 +1,28 @@
+<html> 
+     <head>
+        <title>PINK BOBA</title>
+    <style>
+          body{
+        background-image:url("https://e0.pxfuel.com/wallpapers/392/866/desktop-wallpaper-cats-drinking-boba-bubble-tea-laptop.jpg");
+        background-colour: pink;
+        font-family: SANA-SARIF;
+        img-size:50px;
+     }
+      button{
+             background-colour: grey;
+             width:300px;
+        }
+    </style></head>
+    <body>
+           <h1>BOBA TEA</h1>
+      <p>Pink boba tea is a delightful twist on the classic bubble tea, known for its vibrant hue and sweet, creamy flavor.</p>
+         <ol>☁️Typically made with a blend of fruit-infused milk or strawberry-flavored tea, it's paired with chewy tapioca pearls that add a fun texture to every sip. The eye-catching pink color makes it a favorite for social media snaps, while its refreshing taste keeps fans coming back for more.</ol> 
+        <ol>Whether served iced or blended, pink boba tea is both a treat for the palate and a feast for the eyes.</ol>
+        
+        <button>let's Taste</button>
+</html>
+
+
+
+
+
